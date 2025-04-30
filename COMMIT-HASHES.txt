@@ -1,0 +1,1 @@
+I'd recommend not using short hashes for release identification ;)
